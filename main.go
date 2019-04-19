@@ -1,6 +1,6 @@
 package main
 
-import _ "github.com/google/go-github/v24/github"
+import _ "github.com/google/go-github/v25/github"
 
 func main() {
 }
